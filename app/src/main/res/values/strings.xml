@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Verificacion_QR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_localizar">Map</string>
+    <string name="u1">https://seguridad-privada.sspleon.gob.mx/api/qr/elemento/</string>
+    <string name="u2">/</string>
+    <string name="u3">/kardex?api_token=</string>
+</resources>

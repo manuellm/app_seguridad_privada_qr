@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="token" type="id" />
+    <item name="token2" type="id" />
+    <item name="animation_view" type="id" />
+    <item name="wvQR" type="id" />
+</resources>
